@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">vCare</string>
+    <string name="is_user_onboarded">onboarded</string>
+    <string name="user_data_file">user_data</string>
+    <integer name="gender_male">2</integer>
+    <integer name="gender_female">0</integer>
+    <integer name="gender_other">1</integer>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_warning_text">Monitoring is currently turned off. We are not monitoring your heartbeat values and would\'nt be able to update you on any unusual symptoms if they occur.</string>
+    <string name="main_ok_text">We are lively monitoring your data from sensors. You are all safe! Just make sure Google Fit is Paired correctly with the sensor.</string>
+    <string name="notify_text">
+        We detected an unusual sensor reading from your wearable from the past day while checking if everything was good.
+        \n\nIt is recommended that you do consult a doctor for we see a possibility of really small early stage build up of lung cancer.
+        \n\nThere is nothing to worry about, just a preliminary check-up will do make our doubts disappear.
+        We hope you will out well.
+        \n\nWe make no warranty and sometimes machine learning can go really wrong, so better not worry and consult a doctor.
+    </string>
+</resources>
