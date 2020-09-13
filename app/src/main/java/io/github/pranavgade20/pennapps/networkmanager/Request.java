@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Request {
     public static int make(int age, int gender, int h1, int h2, int h3, int h4) {
         try {
-            URL url = new URL("localhost:5000/predict?" +
+            URL url = new URL("gabriel.sed.lol:33004/predict?" +
                     "age=" + age +
                     "gender=" + gender/2 +
                     "h1=" + h1 +
